@@ -6,7 +6,7 @@
 
 💞️ I'm looking to collaborate on projects focused on technological innovation, particularly those involving backend programming and data analysis
 
-📫 You can reach me lejeune.joachim.dev@gmail.com
+📫 You can reach me at lejeune.joachim.dev@gmail.com
 
 😄 Pronouns: he/him
 
