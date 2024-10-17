@@ -10,4 +10,4 @@
 
 😄 Pronouns: he/him
 
-⚡ Fun fact: I started my career as a developer after turning 30, which gives me a unique and mature approach to technological challenges!
+⚡ Fun fact: I started my career as a developer after turning 35, which gives me a unique and mature approach to technological challenges!
