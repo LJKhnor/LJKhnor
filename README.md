@@ -2,7 +2,7 @@
 
 👀 I'm passionate about backend development and data management
 
-🌱 Currently, I'm learning and improving my skills in Spring Boot, Python, and Agile methodologies (Scrum)
+🌱 Currently, I'm learning and improving my skills in Spring Boot, Vue.js, Python, and Agile methodologies (Scrum)
 
 💞️ I'm looking to collaborate on projects focused on technological innovation, particularly those involving backend programming and data analysis
 
